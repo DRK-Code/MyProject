@@ -1,3 +1,3 @@
 # MyProject
 This is the first project.
-Auther: DRK
+Auther: DRK(SD)
